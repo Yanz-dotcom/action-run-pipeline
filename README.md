@@ -46,3 +46,7 @@ Input | Description | Required | Default |
 ### Outputs
 
 The Action will report if the job run was successful. If the job run fails, the Action will report a failure. The output events from the run are streamed to the Action console.
+
+## End User License Agreement
+
+Please see [End User License Agreement & Terms of Use](https://www.refactr.it/terms-privacy-security).
